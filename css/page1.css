@@ -1,0 +1,16 @@
+.hole11 {
+  left: 500px;
+}
+.hole12 {
+  left: 100px;
+}
+.hole13 {
+  left: 200px;
+}
+.seals1 {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+/*# sourceMappingURL=page1.css.map */
